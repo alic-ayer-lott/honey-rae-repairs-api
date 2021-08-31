@@ -71,6 +71,16 @@
             "id": 2,
             "name": "Rose Schmitt",
             "specialty": "Printers"
+        },
+        {
+            "id": 3,
+            "name": "Ricky Sipes",
+            "specialty": "Droids"
+        },
+        {
+            "id": 4,
+            "name": "Holly Russel",
+            "specialty": "Everything"
         }
     ],
     "serviceTickets": [
